@@ -1,0 +1,29 @@
+{
+  "name": "my_launchx_app",
+  "version": "1.0.0",
+  "description": "first app JS by Monica Portillo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monicaps/my_launchx_app.git"
+  },
+  "keywords": [
+    "nodejs",
+    "js",
+    "app",
+    "unit_test"
+  ],
+  "author": "Monica Portillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monicaps/my_launchx_app/issues"
+  },
+  "homepage": "https://github.com/monicaps/my_launchx_app#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
